@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to 4K1D3V's GitHub Profile! 🌟</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/250" alt="logo" style="border-radius: 10px;"/>
+  <img src="logo.jpeg" alt="logo" style="border-radius: 10px;"/>
 </p>
 
 ---
